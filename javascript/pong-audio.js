@@ -48,7 +48,6 @@ soundArray.push(wallSound); //add sound to list of sounds
 
 export var paddleSound = new soundFile("FireIgnite.mp3");
 soundArray.push(paddleSound);
-paddleSound.player.volume.value = -10:
 
 export var scoreSound = new soundFile("FireFlyby.mp3");
 soundArray.push(scoreSound);
